@@ -1,0 +1,6 @@
+name: cartspeed
+version: '${version}'
+
+main: me.ikurakorogaru.cartspeed.Cartspeed
+api-version: '26.2'
+load: POSTWORLD
