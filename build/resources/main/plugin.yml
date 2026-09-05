@@ -1,6 +1,0 @@
-name: cartspeed
-version: '1.0-SNAPSHOT'
-
-main: me.ikurakorogaru.cartspeed.Cartspeed
-api-version: '26.2'
-load: POSTWORLD
